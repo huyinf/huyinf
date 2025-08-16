@@ -69,7 +69,9 @@ AI Engineering student with strong passion for **Computer Vision** and its real-
 
 <br />
 
-## 🌐 Languages <img src="https://flagcdn.com/w40/vn.png" alt="Vietnamese" width="20" height="15" style="margin-right:8px;"><img src="https://flagcdn.com/w40/gb.png" alt="English" width="20" height="15" style="margin-right:8px;">
+## 🌐 Languages
+
+<img src="https://flagcdn.com/vn.svg" alt="Vietnamese" width="40"> <img src="https://flagcdn.com/gb.svg" alt="English" width="40">
 
 - **English**: Professional Working Proficiency
 - **Vietnamese**: Native
@@ -79,8 +81,6 @@ AI Engineering student with strong passion for **Computer Vision** and its real-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huyinf&show_icons=true&theme=radical)
-
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huyinf&layout=compact&theme=radical) -->
 
 </div>
 
