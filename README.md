@@ -38,33 +38,6 @@ AI Engineering student with strong passion for **Computer Vision** and its real-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 🚀 Featured Projects
-
-### 🎨 [Diffusion-based Grayscale Image Colorization](https://huggingface.co/huyinf/ColorFill-LDM-CNet/tree/main)
-**Jan 2025 - July 2025** | *Thesis Project - Computer Vision*
-- Fine-tuned a ControlNet–LDM model for high-fidelity grayscale image colorization with auto and prompt-based modes
-- Built a full pipeline: BLIP for captioning, Deformable VAE for reconstruction, and DDIM for efficient inference
-- Specialized models for faces, furniture, and clothes; deployed via a Gradio interface with advanced tuning options
-- **Led a 2-person team; project scored 9.2/10, highest in cohort**
-
-### 👤 [BioFace - AI-Powered Face Recognition System](https://github.com/huyinf/Computer-Vision-Applications)
-**Nov 2024 - Dec 2024** | *Computer Vision & Software*
-- Developed a full-stack biometric authentication platform using Flask REST API, React.js, and PostgreSQL
-- Implemented DeepFace + SFace ML models with FAISS vector indexing for scalable face matching
-- Built production-ready architecture with Docker containerization and JWT authentication
-
-### 🇻🇳 [VietTravel-RAG](https://github.com/huyinf/VietTravel-RAG)
-**Jan 2025 - March 2025** | *Natural Language Processing*
-- Built bilingual Vietnam Travel RAG system with hybrid retrieval (FAISS+BM25+reranking)
-- Developed end-to-end automated pipeline: web crawling, content preprocessing, vector indexing
-- Implemented bilingual (Vietnamese-English) support with memory-efficient inference
-
-### 🛍️ [Deep Fashion - E-Commerce Platform](https://github.com/VongoctriZ/SE4AI)
-**Apr 2024 - Jul 2024** | *Software Development*
-- Comprehensive fashion e-commerce web application using React.js, Node.js/Express, and MongoDB
-- Implemented ML recommendation system using collaborative filtering algorithm, processing 7000+ products
-- Built responsive admin dashboard with real-time analytics
-
 ## 🎓 Education
 **University of Science - VNUHCM** | *BS in Artificial Intelligence* | 2021 - 2025  
 📍 Ho Chi Minh, Viet Nam | GPA: 8.56/10
@@ -75,6 +48,12 @@ AI Engineering student with strong passion for **Computer Vision** and its real-
 ## 🌐 Languages
 - **English**: Professional Working Proficiency
 - **Vietnamese**: Native
+
+## 💡 What I'm Working On
+- Exploring advanced **Computer Vision** techniques and applications
+- Building **AI-powered solutions** for real-world problems
+- Developing **full-stack applications** with machine learning integration
+- Contributing to **open-source projects** in AI and data science
 
 ## 📊 GitHub Stats
 
